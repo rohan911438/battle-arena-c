@@ -81,6 +81,11 @@ Developed by Rohan Kumar
 GitHub: rohan911438
 
 
+## 🎥 Demo Video
+
+Watch the gameplay demo of the Battle Arena Game in C:
+
+[![Watch the video](https://img.youtube.com/vi/Hw1krkC7aYg/0.jpg)](https://youtu.be/Hw1krkC7aYg)
 
 
 
